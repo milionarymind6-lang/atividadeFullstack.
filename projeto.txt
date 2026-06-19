@@ -2,3 +2,7 @@
 Projeto de Controle de Versões
 Responsável: Nathan Macedo
 Curso: Programador FullStack
+Cronograma:
+- Levantamento de requisitos
+- Desenvolvimento
+- Testes

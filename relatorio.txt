@@ -1,0 +1,2 @@
+O Git permite controlar versões de arquivos,
+registrar alterações e facilitar o trabalho em equipe.
