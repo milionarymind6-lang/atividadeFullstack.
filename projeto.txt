@@ -1,1 +1,4 @@
 -Projeto de Controle de Versões
+Projeto de Controle de Versões
+Responsável: Nathan Macedo
+Curso: Programador FullStack
